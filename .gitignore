@@ -1,0 +1,47 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/news-portal-angular/dist
+/tmp
+/news-portal-angular/out-tsc
+/news-portal-angular/bazel-out
+/target
+
+# Node
+/news-portal-angular/node_modules
+/news-portal-angularnpm-debug.log
+/news-portal-angularyarn-error.log
+
+# IDEs and editors
+.idea/
+/news-portal-angular.project
+/news-portal-angular/.classpath
+/news-portal-angular/.c9/
+*.launch
+/news-portal-angular/.settings/
+/news-portal-angular*/.sublime-workspace
+
+# Visual Studio Code
+/news-portal-angular/.vscode/*
+/news-portal-angular!/.vscode/settings.json
+/news-portal-angular!/.vscode/tasks.json
+/news-portal-angular!/.vscode/launch.json
+/news-portal-angular!/.vscode/extensions.json
+/news-portal-angular/.history/*
+
+# Miscellaneous
+/news-portal-angular/.angular/cache
+/news-portal-angular/.sass-cache/
+/news-portal-angular/connect.lock
+/news-portal-angular/coverage
+/news-portal-angular/libpeerconnection.log
+/news-portal-angular/testem.log
+/news-portal-angular/typings
+
+# System files
+.DS_Store
+Thumbs.db
+
+.project
+.classpath
+.settings/
