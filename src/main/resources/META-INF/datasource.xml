@@ -1,0 +1,7 @@
+   <local-tx-datasource>
+      <jndi-name>oracleDs</jndi-name>
+      <connection-url>jdbc:oracle:thin:@HP:1521:XE</connection-url>
+      <driver-class>oracle.jdbc.driver.OracleDriver</driver-class>
+      <user-name>c##newsportal</user-name>
+      <password>123</password>
+   </local-tx-datasource>
